@@ -1,3 +1,7 @@
+# I don't own thsi i forked it from trixter9994 since my school blocked it lol
+
+
+
 # Cookie-Clicker-Source-Code
 2.021 source code for... educational purposes... <br>
 Download and Extract to delete free time. Or just use the website. <br> <br>
